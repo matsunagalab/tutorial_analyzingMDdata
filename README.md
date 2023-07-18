@@ -13,7 +13,7 @@ Google colab notebooks for typical MD trajectory analysis routines with Python
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/md_analysis/blob/main/md_distancemap.ipynb)
 
 ## Dimensional reduction
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/md_analysis/blob/main/md_pca.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/md_analysis/blob/main/md_dimensionalreduction.ipynb)
 
 ## Hydrogen bonds
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/md_analysis/blob/main/md_hbonds.ipynb)
