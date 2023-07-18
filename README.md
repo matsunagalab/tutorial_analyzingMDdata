@@ -1,7 +1,7 @@
 Google colab notebooks for typical MD trajectory analysis routines with Python
 
-## Input/Output trajectory
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/md_analysis/blob/main/md_io.ipynb)
+## Basics of MDTraj
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/md_analysis/blob/main/md_basics.ipynb)
 
 ## Root mean square displacements
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/md_analysis/blob/main/md_rmsd.ipynb)
@@ -9,7 +9,7 @@ Google colab notebooks for typical MD trajectory analysis routines with Python
 ## Distance map analysis
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/md_analysis/blob/main/md_distancemap.ipynb)
 
-## Principal Component Analysis
+## Principal Component Analysis and Clustering
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/md_analysis/blob/main/md_pca.ipynb)
 
 ## Hydrogen bonds
