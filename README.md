@@ -1,5 +1,7 @@
 Google colab notebooks for typical MD trajectory analysis routines with Python
 
+まずはMDデータ解析の雰囲気を知るために[スパコンコロキウム](https://fugaku100kei.jp/events/colloquium/)の第4回の動画を視聴してから取り組んでください。
+
 ## 00 Preprocess
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matsunagalab/md_analysis/blob/main/00_preprocess.ipynb)
 
